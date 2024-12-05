@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sanaz Rezvani</h1>
-<h3 align="center">A passionate data scientist based in Melbourne, Australia.</h3>
-
 - ⚡ I’m interested **in data science and solving complex problems through innovative solutions.**
 
 - 👩‍💻 I also enjoy **exploring design, creativity, and the intersection of art and tech.**
 
+- 📝 I regularly write articles on [https://sanazrezvani.com/](https://sanazrezvani.com/)
+
 - 📫 Contact me: **rezvani@sanazrezvani.com**
+
+<h2 align="left">Background:</h2>
+I have a PhD in Mechatronics Engineering. Throughout my PhD project, I gained expertise in developing novel machine learning algorithms to enhance the performance of brain-computer interfaces (BCI). After completing my PhD, I pursued further work in Data Science and completed the “Data Science Career Path” from Microsoft, where I gained extensive experience in deploying machine learning models on the Azure cloud platform. Since then I have been working as a freelance data scientist, expanding my skills in real-world applications. I am passionate about continuous learning and staying up-to-date with the latest tools and technologies in data science. 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sanaz rezvani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanaz rezvani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sanaz-rezvani-123589aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanaz-rezvani-123589aa" height="30" width="40" /></a>
 <a href="https://kaggle.com/sanazrezvani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sanazrezvani" height="30" width="40" /></a>
 </p>
 
