@@ -5,7 +5,7 @@
 
 - 👩‍💻 I also enjoy **exploring design, creativity, and the intersection of art and tech.**
 
-- 📝 I regularly write articles on [www.sanazrezvani.com](www.sanazrezvani.com)
+- 📝 I regularly write articles on [sanazrezvani.com](sanazrezvani.com)
 
 - 📫 Contact me: **rezvani@sanazrezvani.com**
 
