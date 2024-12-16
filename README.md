@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanaz Rezvani</h1>
-<h3 align="center">based in Melbourne, Australia.</h3>
+<h3 align="center">based in Melbourne, Australia</h3>
 
 - ⚡ I’m interested **in data science and solving complex problems through innovative solutions.**
 
