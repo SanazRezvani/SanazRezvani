@@ -10,7 +10,7 @@
 
 <h2 align="left">Background:</h2>
 <p align="left">
-I am a Data Scientist with a PhD in Mechanical Engineering, specialising in machine learning, signal processing, and brain-computer interface (BCI) systems. I work at the intersection of data, engineering, and real-world impact, transforming complex datasets into actionable insights and practical solutions.
+I am a Data Scientist with a Ph.D. in Mechanical Engineering, specialising in machine learning, signal processing, and brain-computer interface (BCI) systems. I work at the intersection of data, engineering, and real-world impact, transforming complex datasets into actionable insights and practical solutions.
 Beyond science and technology, I am deeply interested in the intersection of art and science. I enjoy exploring creative coding, generative art, and interactive experiences that blend neuroscience, AI, and visual expression. I am passionate about bringing creativity into technology and using data not only to solve problems, but also to create meaningful and engaging experiences.
 </p>
 
