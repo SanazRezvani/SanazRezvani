@@ -2,11 +2,11 @@
 
 ### based in Melbourne, Australia
 
-- 🔭 I'm currently working on **Data science solutions for real-world applications**
+- I'm currently working on **Data science solutions for real-world applications**
 
-- 👯 I'm looking to collaborate on **EEG-based Brain-Computer Interface (BCI) systems and Healthcare data science**
+- I'm looking to collaborate on **EEG-based Brain-Computer Interface (BCI) systems and Healthcare data science**
 
-- 📫 How to reach me **rezvani@sanazrezvani.com**
+- How to reach me **rezvani@sanazrezvani.com**
 
 <h2 align="left">Background:</h2>
 <p align="left">
