@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **rezvani@sanazrezvani.com**
 
-- 👨‍💻 I regularly write articles on **[https://sanazrezvani.com/](https://sanazrezvani.com/)**
-
 <h2 align="left">Background:</h2>
 <p align="left">
 I am a Data Scientist with a PhD in Mechanical Engineering, specialising in machine learning, signal processing, and brain-computer interface (BCI) systems. I work at the intersection of data, engineering, and real-world impact, transforming complex datasets into actionable insights and practical solutions.
