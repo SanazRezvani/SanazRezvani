@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sanaz Rezvani
+# Hi, I'm Sanaz Rezvani
 
 ### based in Melbourne, Australia
 
