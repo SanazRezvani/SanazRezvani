@@ -6,7 +6,7 @@
 
 - I'm looking to collaborate on **EEG-based Brain-Computer Interface (BCI) systems and Healthcare data science**
 
-- How to reach me **rezvani@sanazrezvani.com**
+- How to reach me **sanaz.rezvani@korezgroup.com**
 
 <h2 align="left">Background:</h2>
 <p align="left">
