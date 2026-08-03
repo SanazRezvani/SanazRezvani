@@ -17,7 +17,7 @@ Beyond science and technology, I am deeply interested in the intersection of art
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/sanaz-rezvani-phd-123589aa" target="_blank">
+  <a href="www.linkedin.com/in/sanaz-rezvani-123589aa" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="LinkedIn"
          width="40"
